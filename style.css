@@ -150,6 +150,7 @@
 }
 
   #display-container {
+  
     background-color: #ffffff;
     padding: 3.1em 1.8em;
     width: 80%;
@@ -160,7 +161,7 @@
     top: 50%;
     left: 50%;
     border-radius: 0.6em;
-    display: none;
+
   }
   .header {
     margin-bottom: 1.8em;
